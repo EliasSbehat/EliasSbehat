@@ -16,34 +16,32 @@ Looking forward to collaborating with you on your web development needs.
 <br />
 
 
-###   
-  <h2 align="center"> Languages & Frameworks & Tools </h2>
-  <br>
-
-  <p align="center">
-    <code><img title="C" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/c.svg"></code>
-    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/python-original.svg"></code>
-    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/javascript.svg"></code>
-    <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/problemSolving.png"></code>
-    <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/html5.svg"></code>
-    <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/css.svg"></code>
-    <code><img title="React" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/react-original.svg"></code>
-    <code><img title="Git" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/git-original.svg"></code>
-    <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/vscode.png"></code>
-    <code><img title="Microsoft Visual Studio" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/visualstudio.png"></code>
-    <code><img title="JQuery" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/jquery-original.svg"></code>
-    <code><img title="Java" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/java-original.svg"></code>
-    <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/json.svg"></code>
-    <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/github.svg"></code>
-    <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/mysql.svg"></code>
-    <code><img title="npm" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/npm.svg"></code>
-    <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/php.svg"></code>
-    <code><img title="Flask" height="25" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/flask.png"></code>
-  </p>
-<br />
-<br />
-
-
-<br />
-
-<br />
+### 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Hardhat-informational?style=flat&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Graphql-informational?style=flat&logo=graphql&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React_Router-informational?style=flat&logo=react-router&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Express-informational?style=flat&Color=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MySql-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a)
