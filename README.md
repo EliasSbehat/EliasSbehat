@@ -6,7 +6,8 @@
 Having mastered multiple programming languages and frameworks, I am an experienced and skilled Full Stack developer. 
  As a web developer, I deliver high-quality web-based solutions and result on time and on budget.
 
-It is my expertise to be able to develop front-end applications using HTML, CSS, Bootstrap, TailwindCss, JavaScript, React, Svelte, and Typescript as well as back-end applications using Node.js/Express.js and PHP/Laravel/CodeIgniter. I have also gained experience in database management, including the use of MySQL, SQL Server, and MongoDB, among others.
+It is my expertise to be able to develop front-end applications using HTML, CSS, Bootstrap, TailwindCss, JavaScript, React, Svelte, and Typescript as well as back-end applications using Node.js/Express.js, Python, Django, ASP.Net and PHP/Laravel/CodeIgniter. I have also gained experience in database management, including the use of MySQL, SQL Server, and MongoDB, among others.
+Firebase is my expertise too.
 
 It is my passion to build beautiful, user-friendly, and functional websites and applications that deliver exceptional user experiences. Having the skills to work collaboratively and communicate effectively with clients and team members supports agile project management.
 
