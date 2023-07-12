@@ -14,6 +14,7 @@ It is my passion to build beautiful, user-friendly, and functional websites and 
 Exceptional problem-solving skills and an interest in the latest web development technologies and trends enable me to deliver innovative and impactful digital solutions.
 
 Looking forward to collaborating with you on your web development needs.
+Glory to Ukraine!
 <br />
 
 <h1 font-weight="bold">
